@@ -842,6 +842,26 @@ video {
   top: 178%;
 }
 
+.left-\[50vh\] {
+  left: 50vh;
+}
+
+.left-\[100vh\] {
+  left: 100vh;
+}
+
+.left-\[200vh\] {
+  left: 200vh;
+}
+
+.left-\[120vh\] {
+  left: 120vh;
+}
+
+.left-\[150vh\] {
+  left: 150vh;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -1213,6 +1233,22 @@ video {
 
 .w-\[80\%\] {
   width: 80%;
+}
+
+.w-\[50px\] {
+  width: 50px;
+}
+
+.w-\[100px\] {
+  width: 100px;
+}
+
+.w-\[110px\] {
+  width: 110px;
+}
+
+.w-\[120px\] {
+  width: 120px;
 }
 
 .grow {
